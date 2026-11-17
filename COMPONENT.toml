@@ -3,7 +3,7 @@ name = "SigmaOS-hardware-matrix"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "hardware-matrix component"
+description = "Hardware compatibility database: GPU, WiFi, BT, audio, suspend/resume validation"
 upstream = []
 
 [contract]
