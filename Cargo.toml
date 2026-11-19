@@ -1,0 +1,15 @@
+[package]
+name = "SigmaOS-hardware-matrix"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS hardware_matrix component"
+
+[lib]
+name = "hardware_matrix"
+path = "src/lib.rs"
+
+[dependencies]
+thiserror = "1"
+
+[dev-dependencies]
